@@ -264,6 +264,8 @@ h3 {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  flex-wrap: wrap;
+  font-size: 1rem;
 }
 
 .ticket-page .btn {
@@ -304,7 +306,7 @@ h3 {
 
 .note-date {
   position: absolute;
-  top: 15px;
+  top: 5px;
   right: 10px;
   font-size: 14px;
 }
@@ -393,6 +395,10 @@ footer {
 
   .form {
     width: 90%;
+  }
+
+  .ticket {
+    grid-template-columns: repeat(2, 1fr);
   }
 
   .ticket-created h2,
