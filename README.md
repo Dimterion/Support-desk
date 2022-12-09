@@ -14,4 +14,4 @@ I'm keeping this one as a course project reference with the main code structure 
 
 ## Built with
 
-React, React Router, MongoDB, Express, Node.js Prettier
+React, React Router, MongoDB, Express, Node.js, Prettier
