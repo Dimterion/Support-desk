@@ -1,4 +1,4 @@
-# Support desk app
+# Support Desk
 
 Udemy course project to learn React
 
